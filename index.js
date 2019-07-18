@@ -1,1 +1,2 @@
-function add(a,b) {a + b }
+var a,b
+function add(a,b) {a + b}
