@@ -1,0 +1,2 @@
+parseInt('nonsense', 10);
+
