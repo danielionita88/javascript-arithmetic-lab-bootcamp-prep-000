@@ -1,1 +1,1 @@
-parseInt('nonsense', 10);
+function add(a,b) {a + b }
